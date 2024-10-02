@@ -20,5 +20,4 @@ Click on the "Get Recipe" button for a specific meal to see detailed instruction
 Contribution
 Contributions are welcome! Feel free to open an issue or submit a pull request to enhance this project.
 
-Author
-Created by Piyush Pal
+Developed by a passionate coder, Piyush Pal.
