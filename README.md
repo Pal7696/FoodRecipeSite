@@ -1,6 +1,6 @@
 # FoodRecipeSite
 TastyBytes is a Site that helps users discover meal recipes based on available ingredients. With a simple search like rice feature powered by TheMealDB API, users can easily find and view detailed recipes. The responsive design ensures a seamless experience across devices, making meal planning fun and accessible. Created by Piyush Pal
-TastyBytes - Meal Search Application
+TastyBytes - Meal Search Site
 Description
 TastyBytes is a web application designed to help users find delicious meal recipes based on the ingredients they have on hand. Users can easily search for meals by entering an ingredient, and the application displays a list of recipes that include that ingredient, complete with images and detailed instructions.
 
