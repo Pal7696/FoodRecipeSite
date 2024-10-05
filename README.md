@@ -6,10 +6,10 @@ TastyBytes is an interactive site that empowers users to discover delicious meal
 
 Features
 
-•	Ingredient-Based Search: Users can input any ingredient they have on hand, and TastyBytes will return a curated list of meals that incorporate that ingredient.
-•	Detailed Recipe Instructions: Each recipe includes a comprehensive set of instructions, ensuring users can recreate their favorite meals with ease.
-•	Responsive Design: The site is designed to work flawlessly across different devices.
-•	Intuitive User Interface: TastyBytes features a clean and modern interface, making navigation straightforward and enjoyable.
+- Ingredient-Based Search: Users can input any ingredient they have on hand, and TastyBytes will return a curated list of meals that incorporate that ingredient.
+-	Detailed Recipe Instructions: Each recipe includes a comprehensive set of instructions, ensuring users can recreate their favorite meals with ease.
+-	Responsive Design: The site is designed to work flawlessly across different devices.
+- Intuitive User Interface: TastyBytes features a clean and modern interface, making navigation straightforward and enjoyable.
 
 Technologies Used
 
