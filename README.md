@@ -18,3 +18,10 @@ The application is built using fundamental web technologies, including:
 - CSS: For styling and layout, ensuring a visually appealing design.
 -	JavaScript: For dynamic interactions, handling API requests, and rendering meal results.
 
+Screenshot
+![Screenshot 2024-10-05 165018](https://github.com/user-attachments/assets/dc775d25-c8cd-42ba-b97b-544f7a1b82a3)
+![Screenshot 2024-10-05 164959](https://github.com/user-attachments/assets/3ff5381a-cc5e-42be-b78f-a3d01e0b1ed9)
+![Screenshot 2024-10-05 164938](https://github.com/user-attachments/assets/0c608048-3dab-43bb-899d-17ee4e313f3c)
+
+Social
+Linkedin- https://www.linkedin.com/in/piyush-pal-55a254291
