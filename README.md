@@ -14,7 +14,7 @@ Features
 Technologies Used
 
 The application is built using fundamental web technologies, including:
-•	HTML: For the structure of the web pages.
-•	CSS: For styling and layout, ensuring a visually appealing design.
-•	JavaScript: For dynamic interactions, handling API requests, and rendering meal results.
+- HTML: For the structure of the web pages.
+- CSS: For styling and layout, ensuring a visually appealing design.
+-	JavaScript: For dynamic interactions, handling API requests, and rendering meal results.
 
